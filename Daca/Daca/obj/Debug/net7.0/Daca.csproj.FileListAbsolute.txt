@@ -1,0 +1,14 @@
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.GeneratedMSBuildEditorConfig.editorconfig
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.AssemblyInfoInputs.cache
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.AssemblyInfo.cs
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.csproj.CoreCompileInputs.cache
+A:\git repo\Daca\Daca\bin\Debug\net7.0\Daca.exe
+A:\git repo\Daca\Daca\bin\Debug\net7.0\Daca.deps.json
+A:\git repo\Daca\Daca\bin\Debug\net7.0\Daca.runtimeconfig.json
+A:\git repo\Daca\Daca\bin\Debug\net7.0\Daca.dll
+A:\git repo\Daca\Daca\bin\Debug\net7.0\Daca.pdb
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.dll
+A:\git repo\Daca\Daca\obj\Debug\net7.0\refint\Daca.dll
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.pdb
+A:\git repo\Daca\Daca\obj\Debug\net7.0\Daca.genruntimeconfig.cache
+A:\git repo\Daca\Daca\obj\Debug\net7.0\ref\Daca.dll
